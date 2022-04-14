@@ -1,0 +1,10 @@
+
+# Day1 
+
+- Learned Jekyll today. Setup blog.
+
+## Ruby on Rails
+- Learned a bit of Routes.
+
+## Youtube Compose update
+- WIP: Experimenting UI only module 
