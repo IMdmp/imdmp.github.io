@@ -1,0 +1,14 @@
+
+# Day2
+
+
+## Ruby 
+- Finished routes. routes config is basically the place you access if you need corresponding routes done. There are many conventions that can make code less verbose but very functional. Many helper methods are also available. 
+
+important stuff: 
+- redirect is treated as a completely new http request - goes back to the router and everything.
+- ```redirect_to post_path(@post.id), just write redirect_to @post```
+
+
+## Youtube compose update
+- PR for POC iter1 up. 
