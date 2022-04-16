@@ -1,3 +1,34 @@
 # Day 3 
 
+## Ruby on Rails
 - Learned about controllers in ruby today. Will continue tomorrow on the deep dive. 
+
+## Android 
+- TIL that setting the plugins is what sets what type of android module it's going to be.
+
+For example given
+
+```
+plugins {
+    id 'com.android.library'
+    id 'kotlin-android'
+}
+```
+
+on build.gradle(app level) of a module - this wil be an android library.
+
+but if it's like this:
+
+```
+plugins {
+    id 'com.android.application'
+
+}
+```
+
+^ This will be an an "app and phone" module. A standalone module that can run itself.
+It's the equivalent of the "app" the we are so accustomed to.
+
+
+So if it is the latter, we can individually run it as if its its own application in the run part.
+But if we want to connect it to "app" we need to change it to former. 
