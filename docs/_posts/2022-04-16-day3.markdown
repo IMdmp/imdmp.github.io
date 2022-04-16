@@ -1,0 +1,3 @@
+# Day 3 
+
+- Learned about controllers in ruby today. Will continue tomorrow on the deep dive. 
