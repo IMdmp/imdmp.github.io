@@ -3,3 +3,7 @@
 ## Ruby on Rails 
 - Learned about View
 
+## Android 
+- Added 2 new issues (todos)
+  - module repository 
+  - scaffold state into custom snackbars(default impl and the POC on custom part)
