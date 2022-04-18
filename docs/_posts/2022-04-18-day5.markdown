@@ -1,0 +1,7 @@
+# Day 5
+
+## Android 
+- Refactored video player to video module 
+
+## Ruby on Rails 
+- Deep dive read on Controllers.
