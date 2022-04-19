@@ -1,0 +1,7 @@
+# Day 6
+
+## Ruby on Rails
+- Read about forms
+
+## Android 
+- Started data repository

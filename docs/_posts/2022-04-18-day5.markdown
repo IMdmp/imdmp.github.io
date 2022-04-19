@@ -1,7 +1,16 @@
-# Day 5
+# Day 5 
+
 
 ## Android 
 - Refactored video player to video module 
+- Added new issues (tasks) on YoutubeCompose
+- polished video player module
+- merged refactored module PR to main
 
 ## Ruby on Rails 
 - Deep dive read on Controllers.
+- Quick read on deployment and asset pipeline
+- Read about turbo drive
+
+
+motivation level: 5
