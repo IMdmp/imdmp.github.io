@@ -1,0 +1,8 @@
+# Day 7
+
+## Ruby on Rails
+- Learned about basics of active record.
+
+## Android
+- Split issue to smaller issues
+- Merged PR
