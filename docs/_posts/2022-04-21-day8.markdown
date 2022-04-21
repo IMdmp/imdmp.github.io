@@ -1,0 +1,9 @@
+# Day 8 
+
+## Android 
+- Finished  Video Info and details
+- Finished Comments 
+^ in TDD
+
+## Ruby on Rails
+- Active record queries (50%)
