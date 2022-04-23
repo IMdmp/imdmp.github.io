@@ -2,3 +2,6 @@
 
 ## Ruby on Rails
 - Read about External API's
+
+## Android
+- Added new story for Youtube Compose
