@@ -1,0 +1,9 @@
+# Day 11
+
+## Android 
+- Init new PR for repository module - search feature
+
+## Ruby on Rails
+- Learned about scopes They're mostly good for one liners.
+
+In Ruby 2.x , they used to be more useful, but in Ruby 3.x where everything returns a relation instead, it makes more sense to use classes now especially for 2+ lines.
