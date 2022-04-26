@@ -1,0 +1,4 @@
+# Day 13
+
+## Ruby on Rails
+- Deep dive on logging, active record and mongoid

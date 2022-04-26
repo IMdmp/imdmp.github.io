@@ -1,0 +1,7 @@
+# Day 12
+
+## Ruby on Rails
+- Read about CSS bundling
+- Read about TDD and rSpec
+
+## Android
