@@ -1,0 +1,8 @@
+# Day 16
+
+## Android
+- implemented sample implementation of webrtc. only able to connect via local network at the moment.
+
+### Some learnings: 
+    - Both parties need an intermediary server that they can trust so that they can confidently send their information over the internet safely. This server is called the signaling server.
+  
