@@ -2,3 +2,6 @@
 
 ## Android
 - Init new project for webRTC sample
+
+## Ruby 
+- Read about Mailer

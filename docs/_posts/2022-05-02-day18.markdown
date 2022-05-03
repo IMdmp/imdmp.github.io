@@ -1,0 +1,5 @@
+# Day 18 
+
+## Android
+- Continue webRTC project
+- Able to initialize first firestore POC (better understanding for firestore noSQL)
