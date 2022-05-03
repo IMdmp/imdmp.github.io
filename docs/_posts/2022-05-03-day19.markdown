@@ -2,3 +2,5 @@
 
 ## Android
 - Continue Youtube compose. able to use kotlin flow for one of the features (search autosuggestion)
+- finished module. Continued with search-ui.
+- Experimented different project for different module. It's a success.
