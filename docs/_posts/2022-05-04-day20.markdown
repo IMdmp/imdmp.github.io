@@ -1,0 +1,15 @@
+# Day 20
+
+## Android
+- Able to integrate different modules together in a working poc. Realized though that one module per small screen or feature is too overkill. Will refactor app to just the following:
+(app, datarepo, ui,core) 
+
+Although grouping the ui screen by module enforces true separation of concerns,  it makes the code too rigid and not flexible.
+I encountered when i wanted to combine to screens from separate modules and was stumped on what approach to do. Should i make a new module that is a combination of the 2? 
+
+What if in the future i want to combine even more modules for a more coherent app?
+
+So in the end, i think that the most flexible but still enforces some separation of concerns and single responsibiltiy is this architecuture:
+- UI
+- Data Repository
+- App
