@@ -1,0 +1,4 @@
+# Day 21
+
+## Android
+- Research on custom views

@@ -9,6 +9,10 @@ I encountered when i wanted to combine to screens from separate modules and was 
 
 What if in the future i want to combine even more modules for a more coherent app?
 
+More disadvantages:
+- more mental overhead
+- more complexity and need for clever solutions when it wont be a problem at all if the code is in one module
+
 So in the end, i think that the most flexible but still enforces some separation of concerns and single responsibiltiy is this architecuture:
 - UI
 - Data Repository
