@@ -1,0 +1,4 @@
+# Day 23
+
+## Android 
+- Polished Custom player view. Moved one part of pure compose to xml since it works better for exoplayer controls right out of the box that way.

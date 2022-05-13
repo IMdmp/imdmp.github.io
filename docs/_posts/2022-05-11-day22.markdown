@@ -1,0 +1,10 @@
+# Day 22
+
+Not able to log results for a few days. However the past few days have been productive working on personal android pet project 
+
+## Android 
+- Studied Flipper in detail. 
+- Sandbox in flipper leads to easier changing of inapp url's and mockserver mode.
+- LeakCanary, detecting leaks, detecting leaks in runtime and production
+- Firebase datastore, process phoenix
+- firebase remote config
